@@ -1,8 +1,8 @@
-package com.pbf.foo;
+package com.pbf.transformer;
 
 import com.pbf.helper.DateHelper;
 
-class FooTransformer {
+public class BarTransformer {
 
     DateHelper dateHelper;
 }
